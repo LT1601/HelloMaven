@@ -11,6 +11,8 @@ public class hello {
 
         System.out.println( "我是master的一个分支" );
 
+        System.out.println( "我是dev的一个分支" );
+
 
     }
 }
